@@ -2,7 +2,9 @@
 OTTbuy is a free open source, where you sell ott subscription , premium account also you can sell digital product to your customer. Whatever the size of your online services business, whether a startup or established, OTTbuy can help you to automate .
 
 OTTbuy is designed to be extensible and to integrate easily with your favorite server management software and payment gateways.
-
+<img src="https://i.postimg.cc/qBmm7gL6/Screenshot-2024-05-02-112344.png">
+<br>
+<img src="https://i.postimg.cc/053p3Snn/Screenshot-2024-05-02-112408.png">
 📥 This is self-hosted software that is free for anyone to install — All you need is a some basic knowledge, a web server, running PHP and a MySQL database. For more details, check the [requirements](#requirements) section.
 
 ## Contents
@@ -47,8 +49,6 @@ For instructions on installing OTTbuy .
 First of all, thank you for your interest, and for taking your time to contribute to OTTbuy.
 
 OTTbuy is undergoing a revival and major code update. We are making steps forward day by day but there is still a lot of work to do, and we are happy to welcome new contributors. 
-
-We have a set of guidelines for those wishing to contribute to FOSSBilling, and we encourage you to take a look at them here: **[contributors' guidelines]
 
 ## Star History
 
