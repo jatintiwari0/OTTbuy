@@ -41,7 +41,7 @@ For instructions on installing OTTbuy .
 <br>
 3 Upload the SQL in your database username
 <br>
-4 0pen the file /auth.php (Edit with your database name ID and password with your Paytm merchant upi ID)
+4 Open the file /auth.php (Edit with your database name ID and password with your Paytm merchant upi ID)
 <br>
 <img src="https://i.postimg.cc/jqQhW244/edit-this.png">
 <br>
