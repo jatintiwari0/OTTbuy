@@ -17,6 +17,7 @@ OTTbuy is designed to be extensible and to integrate easily with your favorite s
 - [Contributing](#contributing)
 - [Star History](#star-history)
 - [Licensing](#licensing)
+- [Author] (#Author)
 
 
 ## Requirements
