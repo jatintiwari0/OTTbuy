@@ -69,5 +69,18 @@ Don't hesitate to create an [issue](https://github.com/jatintiwari0/OTTbuy/issue
 OTTbuy is open source software and is released under the Apache v2.0 license. See [LICENSE](https://github.com/jatintiwari0/OTTbuy/blob/main/LICENSE) for the full license terms.
 
 This product doesnot includes the following third party work:
+# 👋 Author
 
-- created by jatintiwari
+### 💁🏻‍♂️ Jatin Tiwari
+
+You can reach out to Jatin Tiwari, the maintainer of the app on [Twitter](https://twitter.com/jatintiwari0),[linkedin](https://www.linkedin.com/in/jatintiwari0/) 
+
+# 🌟 Support this project
+
+![](https://user-images.githubusercontent.com/48997634/174794647-0c851917-e5c9-4fb9-bf88-b61d89dc2f4f.gif)
+
+### [⏫⭐️ Scroll to the star button](#start-of-content)
+
+If you believe this project has potential, feel free to **star this repo** just like many [amazing people](/stargazers)
+have.
+
