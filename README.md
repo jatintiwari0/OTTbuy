@@ -30,10 +30,15 @@ To find the most up-to-date system requirements for OTTbuy
 - ## Installation
 
 For instructions on installing OTTbuy .  
+<br>
 1 Upload the code in hosting which your are using
+<br>
 2 Extract all the file
+<br>
 3 Upload the SQL in your database username
+<br>
 4 0pen the file /auth.php (Edit with your database name ID and password with your Paytm merchant upi ID)
+<br>
 5 And last open the /trackpayment.php (Edit your Paytm merchant ID)
 # Contributing
 
