@@ -5,6 +5,8 @@ OTTbuy is designed to be extensible and to integrate easily with your favorite s
 <img src="https://i.postimg.cc/qBmm7gL6/Screenshot-2024-05-02-112344.png">
 <br>
 <img src="https://i.postimg.cc/053p3Snn/Screenshot-2024-05-02-112408.png">
+<br>
+<img src="https://i.postimg.cc/d38rrHC0/Screenshot-2024-05-02-112415.png">
 📥 This is self-hosted software that is free for anyone to install — All you need is a some basic knowledge, a web server, running PHP and a MySQL database. For more details, check the [requirements](#requirements) section.
 
 ## Contents
