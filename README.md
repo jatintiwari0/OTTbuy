@@ -43,7 +43,11 @@ For instructions on installing OTTbuy .
 <br>
 4 0pen the file /auth.php (Edit with your database name ID and password with your Paytm merchant upi ID)
 <br>
+<img src="https://i.postimg.cc/jqQhW244/edit-this.png">
+<br>
 5 And last open the /trackpayment.php (Edit your Paytm merchant ID)
+<br>
+<img src="https://i.postimg.cc/WbrK9ggL/edit-this-1.png">
 # Contributing
 
 🖥️ Welcome, fellow developer! 🙂
