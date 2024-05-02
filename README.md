@@ -21,7 +21,9 @@ OTTbuy is designed to be extensible and to integrate easily with your favorite s
 To find the most up-to-date system requirements for OTTbuy
 
 1 CPANEL , HPANEL , VPS 
+<br>
 2 PHP version 8
+<br>
 3 MySQL >= 8
 
 
