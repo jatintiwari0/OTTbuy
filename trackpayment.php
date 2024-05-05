@@ -10,7 +10,7 @@ error_reporting(0);
 
 if (isset($_GET['q'])) {
     $oid = $_GET['q'];
-    $mid = "rubkXU18216743861182";//enter your paytm merchant id
+    $mid = "#";//enter your paytm merchant id
     $url = "https://www.codertg.xyz/api/paytm/?MERCHANT_KEY={$mid}&TRANSACTION={$oid}";
     $ch = curl_init();
     curl_setopt($ch, CURLOPT_URL, $url);
