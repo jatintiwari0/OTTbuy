@@ -34,19 +34,21 @@ To find the most up-to-date system requirements for OTTbuy
 
 For instructions on installing OTTbuy .  
 <br>
-1 Upload the code in hosting which your are using
+<h4> 1 Upload the code in hosting which your are using</h4>
 <br>
-2 Extract all the file
+<h4> 2 Extract all the file</h4>
 <br>
-3 Upload the SQL in your database username
+<h4> 3 Upload the SQL in your database username</h4>
 <br>
-4 Open the file /auth.php (Edit with your database name ID and password with your Paytm merchant upi ID)
+<h4> 4 Open the file /auth.php (Edit with your database name ID and password with your Paytm merchant upi ID)</h4>
 <br>
 <img src="https://i.postimg.cc/jqQhW244/edit-this.png">
 <br>
-5 And last open the /trackpayment.php (Edit your Paytm merchant ID)
+<h4> 5 And last open the /trackpayment.php (Edit your Paytm merchant ID)</h4>
 <br>
 <img src="https://i.postimg.cc/WbrK9ggL/edit-this-1.png">
+<br>
+<h3>🙂If you want Bharat Pe Gateway its paid (10$) You can reach out to [Telegram],(https://telegram.me/getallscripthelp) </h3>
 # Contributing
 
 🖥️ Welcome, fellow developer! 🙂
