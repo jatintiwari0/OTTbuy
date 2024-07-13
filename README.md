@@ -48,7 +48,7 @@ For instructions on installing OTTbuy .
 <br>
 <img src="https://i.postimg.cc/WbrK9ggL/edit-this-1.png">
 <br>
-<h3>🙂If you want Bharat Pe Gateway its paid (10$) You can reach out to [Telegram],(https://telegram.me/devkilla) </h3>
+<h3>🙂If you want Bharat Pe Gateway its paid (10$) You can reach out to [Telegram],(https://telegram.me/iamjatindev) </h3>
 # Contributing
 
 🖥️ Welcome, fellow developer! 🙂
